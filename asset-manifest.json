@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kav/static/css/main.84055ee4.css",
+    "main.js": "/kav/static/js/main.b95ab905.js",
+    "static/js/592.54ede41b.chunk.js": "/kav/static/js/592.54ede41b.chunk.js",
+    "index.html": "/kav/index.html",
+    "main.84055ee4.css.map": "/kav/static/css/main.84055ee4.css.map",
+    "main.b95ab905.js.map": "/kav/static/js/main.b95ab905.js.map",
+    "592.54ede41b.chunk.js.map": "/kav/static/js/592.54ede41b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84055ee4.css",
+    "static/js/main.b95ab905.js"
+  ]
+}
