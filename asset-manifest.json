@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/himabindhu_mern/static/css/main.c188a364.css",
-    "main.js": "/himabindhu_mern/static/js/main.9e8070b2.js",
-    "static/js/453.45de5bbc.chunk.js": "/himabindhu_mern/static/js/453.45de5bbc.chunk.js",
-    "index.html": "/himabindhu_mern/index.html",
-    "main.c188a364.css.map": "/himabindhu_mern/static/css/main.c188a364.css.map",
-    "main.9e8070b2.js.map": "/himabindhu_mern/static/js/main.9e8070b2.js.map",
-    "453.45de5bbc.chunk.js.map": "/himabindhu_mern/static/js/453.45de5bbc.chunk.js.map"
+    "main.css": "/shiva77/static/css/main.c188a364.css",
+    "main.js": "/shiva77/static/js/main.1aaf9785.js",
+    "static/js/453.45de5bbc.chunk.js": "/shiva77/static/js/453.45de5bbc.chunk.js",
+    "index.html": "/shiva77/index.html",
+    "main.c188a364.css.map": "/shiva77/static/css/main.c188a364.css.map",
+    "main.1aaf9785.js.map": "/shiva77/static/js/main.1aaf9785.js.map",
+    "453.45de5bbc.chunk.js.map": "/shiva77/static/js/453.45de5bbc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c188a364.css",
-    "static/js/main.9e8070b2.js"
+    "static/js/main.1aaf9785.js"
   ]
 }
